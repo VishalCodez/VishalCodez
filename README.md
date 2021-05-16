@@ -22,7 +22,7 @@
 
 You Can Always Support Me By Inviting One of My **Own Discord Bots**
 
-[![MuZox Advanced HD Music Bot](https://i.ibb.co/C9cQXPT/Muzox.png)](https://discord.com/oauth2/authorize?client_id=838971816319909899&permissions=2214063424&scope=bot)
+[![MuZox Advanced HD Music Bot](https://i.ibb.co/CHX4y5n/soon.png)](https://discord.com/oauth2/authorize?client_id=838971816319909899&permissions=2214063424&scope=bot)
 [Click Here](https://discord.com/oauth2/authorize?client_id=838971816319909899&permissions=2214063424&scope=bot)
 [![Emote Manager Bot](https://i.ibb.co/Nr5t7f0/soon.png)](https://discord.com/oauth2/authorize?client_id=840036883757137920&permissions=1073826816&scope=bot)
 [Click Here](https://discord.com/oauth2/authorize?client_id=840036883757137920&permissions=1073826816&scope=bot)
