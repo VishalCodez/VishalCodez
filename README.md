@@ -22,8 +22,8 @@
 
 You Can Always Support Me By Inviting One of My **Own Discord Bots**
 
-[![MuZox Advanced HD Music Bot](https://i.ibb.co/pWGrrBM/Muzox.png)](https://discord.com/oauth2/authorize?client_id=838971816319909899&permissions=2214063424&scope=bot)
-[![Emote Manager Bot](https://i.ibb.co/0BFm6WZ/emotemanager.png)](https://discord.com/oauth2/authorize?client_id=840036883757137920&permissions=1073826816&scope=bot)
+[![MuZox Advanced HD Music Bot](https://i.ibb.co/6t9pcD6/Muzox.png)](https://discord.com/oauth2/authorize?client_id=838971816319909899&permissions=2214063424&scope=bot)
+[![Emote Manager Bot](https://i.ibb.co/Yd9WSRb/emotemanager.png)](https://discord.com/oauth2/authorize?client_id=840036883757137920&permissions=1073826816&scope=bot)
 [![More Soon](https://cdn-0.emojis.wiki/emoji-pics/mozilla/soon-arrow-mozilla.png)](https://www.rockinrudys.com/wp-content/uploads/2020/10/coming-soon.jpg)
 
 ## 🚀 Languages and Tools:
