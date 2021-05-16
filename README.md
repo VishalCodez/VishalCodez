@@ -68,8 +68,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://discord.gg/dNkqDtjmwR"><img src="<img src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png"/>"/></a>
-<a href = "https://monophy.com/media/d3r5IMrgSLM4dYsmUO/monophy.gif"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+<a href = "https://discord.gg/dNkqDtjmwR"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
 <a href = "https://monophy.com/media/d3r5IMrgSLM4dYsmUO/monophy.gif"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://gifimage.net/wp-content/uploads/2017/11/its-a-secret-gif-6.gif"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://gifimage.net/wp-content/uploads/2017/11/its-a-secret-gif-6.gif"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
@@ -77,7 +77,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/VishalCodez/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=VishalCodez">
 </a>
 <a href="https://github.com/VishalCodez?tab=followers"><img src="https://img.shields.io/github/followers/VishalCodez?label=Followers&style=social" alt="GitHub Badge"></a>
