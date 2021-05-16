@@ -27,6 +27,7 @@ You Can Always Support Me By Inviting One of My **Own Discord Bots**
 [![Emote Manager Bot](https://i.ibb.co/Nr5t7f0/soon.png)](https://discord.com/oauth2/authorize?client_id=840036883757137920&permissions=1073826816&scope=bot)
 [Click Here](https://discord.com/oauth2/authorize?client_id=840036883757137920&permissions=1073826816&scope=bot)
 [![More Soon](https://i.ibb.co/yfH9bSZ/more-soon.png)](https://www.rockinrudys.com/wp-content/uploads/2020/10/coming-soon.jpg)
+[More Soon](https://www.rockinrudys.com/wp-content/uploads/2020/10/coming-soon.jpg)
 
 ## 🚀 Languages and Tools:
 
