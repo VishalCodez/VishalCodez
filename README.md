@@ -18,9 +18,9 @@
 
 <br/>  
 
-# YOU CAN SUPPORT MY DISCORD BOTS
+# YOU CAN SUPPORT YOUR DISCORD BOTS
 
-You Can Always Support Me By Inviting One of My **Own Discord Bots**
+You Can Always Support Me By Inviting One of Your **Discord Bots**
 
 [![MuZox Advanced HD Music Bot](https://i.ibb.co/CHX4y5n/soon.png)](https://discord.com/oauth2/authorize?client_id=838971816319909899&permissions=2214063424&scope=bot)
 [Click Here](https://discord.com/oauth2/authorize?client_id=838971816319909899&permissions=2214063424&scope=bot)
