@@ -65,7 +65,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## Connect With Me:
 <p align="left">
 
 
