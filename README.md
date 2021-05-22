@@ -5,6 +5,7 @@
 
 
 
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m Currently Working on **[Making Games](https://betacssjs.chesscomfiles.com/bundles/web/images/social/gif-meta.65401f66.gif)**
@@ -15,7 +16,9 @@
 
 - 👨‍💻 All of My Projects Are Available At On My Website **[Website](https://i.pinimg.com/originals/5c/5d/66/5c5d6684644136c4b1442f1db30af6bf.gif)**
 
-- 📫 How to Reach Me **vishalshirothiya@gmail.com**
+- 📫 How to Reach Me **vishalcodez@gmail.com**
+
+[![Discord](https://discord.c99.nl/widget/theme-3/845140706741452831.png)](https://discord.c99.nl/widget/theme-3/845140706741452831.png)
 
 <br/>  
 
