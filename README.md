@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishal</h1>
 <h3 align="center">I Am a Passionate Self Learner from INDIA 🟠⚪🟢</h3>
 
-[![Discord](https://discord.c99.nl/widget/theme-3/845140706741452831.png)](https://discord.com/users/845140706741452831)
+
 
 ## 🙋‍♂️ About Me
 
