@@ -85,7 +85,7 @@ You Can Always Support Me By Inviting One My **Official Discord Bots**
 <p align="left">
 
 
-<a href = "https://discord.gg/dNkqDtjmwR"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
+<a href = "https://discord.gg/7GsYdNFN7D"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
 <a href = "https://monophy.com/media/d3r5IMrgSLM4dYsmUO/monophy.gif"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://gifimage.net/wp-content/uploads/2017/11/its-a-secret-gif-6.gif"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://gifimage.net/wp-content/uploads/2017/11/its-a-secret-gif-6.gif"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
