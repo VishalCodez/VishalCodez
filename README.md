@@ -90,7 +90,6 @@ You Can Always Support Me By Inviting One My **Official Discord Bots**
 <a href = "https://gifimage.net/wp-content/uploads/2017/11/its-a-secret-gif-6.gif"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCykCNTjdwx--YGTASWb491Q"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
-[![Join Developers Adda](https://discord.com/api/guilds/845156873011462146/embed.png?style=banner2)](https://discord.gg/aQmJENrmyw)
 
 </p>
 
