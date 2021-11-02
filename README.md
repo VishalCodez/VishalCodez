@@ -56,16 +56,18 @@
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
 
-## 📊 My Github Stats
 
-  </p>
+-------------------
+  
+![Vishal Codez Github Stats](https://github-readme-stats.vercel.app/api?username=VishalCodez&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-<a href="https://github.com/thesaravanakumar"><img alt="Saravana Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=thesaravanakumar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
-<a href="https://github.com/thesaravanakumar"><img alt="Saravana Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesaravanakumar&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
+![Vishal Codez Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=VishalCodez&theme=radical&include_all_commits=true&count_private=true)
 
-</p>
+ <div>
+
+-----
+
 
 ![footer](https://i.ibb.co/9yvsZhZ/Hindustan.png)
 
