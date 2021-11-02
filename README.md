@@ -1,8 +1,26 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h3 align="center">
+  
+  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+  
+ Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Vishal
+    </p>
+    I Am a Passionate Self Learner from INDIA 🟠⚪🟢
+  
+![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
+![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
+![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
+![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
+![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
+![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishal</h1>
-<h3 align="center">I Am a Passionate Self Learner from INDIA 🟠⚪🟢</h3>
 
+
+  <a href="https://github.com/VishalCodez/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=VishalCodez">
+</a>
+<a href="https://github.com/VishalCodez?tab=followers"><img src="https://img.shields.io/github/followers/VishalCodez?label=Followers&style=social" alt="GitHub Badge"></a>
+
+  </h3>
 
 
 
@@ -10,28 +28,15 @@
 
 - 🔭 I’m Currently Working on **[Making Games](https://betacssjs.chesscomfiles.com/bundles/web/images/social/gif-meta.65401f66.gif)**
 
-- 🌱 I’m Currently Learning **Data Structures and Algorithms.**
+- 🌱 I’m Currently Learning **Programing Languages**
 
-- 👯 I’m Looking To Collaborate On **OpenSource Projects**
+- 📫 How To Reach Me **vishalcodez@gmail.com**
 
-- 👨‍💻 All of My Projects Are Available At On My Website **[Website](https://i.pinimg.com/originals/5c/5d/66/5c5d6684644136c4b1442f1db30af6bf.gif)**
 
-- 📫 How to Reach Me **vishalcodez@gmail.com**
 
-[![Discord](https://discord.c99.nl/widget/theme-3/845140706741452831.png)](https://discord.c99.nl/widget/theme-3/845140706741452831.png)
+<a href="#"><img width="38%" height="auto" src="https://discord.c99.nl/widget/theme-3/845140706741452831.png" height="38px"/></a>
 
-<br/>  
 
-# YOU CAN SUPPORT MY DISCORD BOTS
-
-You Can Always Support Me By Inviting One My **Official Discord Bots**
-
-[![MuZox Advanced HD Music Bot](https://i.ibb.co/CHX4y5n/soon.png)](https://discord.com/oauth2/authorize?client_id=845153824742440991&permissions=41283136&scope=bot)
-[Invite MuZox](https://discord.com/oauth2/authorize?client_id=845153824742440991&permissions=41283136&scope=bot)
-[![Emote Manager Bot](https://i.ibb.co/Nr5t7f0/soon.png)](https://discord.com/oauth2/authorize?client_id=845609650844860416&permissions=1073866752&scope=bot)
-[Invite Emote M](https://discord.com/oauth2/authorize?client_id=845609650844860416&permissions=1073866752&scope=bot)
-[![More Soon](https://i.ibb.co/yfH9bSZ/more-soon.png)](https://www.rockinrudys.com/wp-content/uploads/2020/10/coming-soon.jpg)
-[More Soon](https://www.rockinrudys.com/wp-content/uploads/2020/10/coming-soon.jpg)
 
 ## 🚀 Languages and Tools:
 
@@ -55,7 +60,7 @@ You Can Always Support Me By Inviting One My **Official Discord Bots**
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+
 <br/>
 
 <p align="center">
@@ -66,35 +71,14 @@ You Can Always Support Me By Inviting One My **Official Discord Bots**
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/VishalCodez/github-readme-stats"><img alt="VihalCodez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VishalCodez&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/VishalCodez/github-readme-stats"><img alt="VishalCodez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalCodez&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
+  <a href="https://github.com/VishalCodez"><img alt="Vishal Codez's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=VishalCodez&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=060A0CD0&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
+<a href="https://github.com/VishalCodez"><img alt="Vishal Codez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesaravanakumar&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0&title_color=fff&icon_color=79ff97" height="192px"/></a>
 <br/>
 <br/>
-
-<a href="https://github.com/VishalCodez/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=VishalCodez&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect With Me:
-<p align="left">
-
-
-<a href = "https://discord.gg"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
-<a href = "https://monophy.com/media/d3r5IMrgSLM4dYsmUO/monophy.gif"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://gifimage.net/wp-content/uploads/2017/11/its-a-secret-gif-6.gif"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCykCNTjdwx--YGTASWb491Q"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
 
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/VishalCodez/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=VishalCodez">
-</a>
-<a href="https://github.com/VishalCodez?tab=followers"><img src="https://img.shields.io/github/followers/VishalCodez?label=Followers&style=social" alt="GitHub Badge"></a>
+![footer](https://i.ibb.co/9yvsZhZ/Hindustan.png)
+
+------
+
