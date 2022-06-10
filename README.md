@@ -14,7 +14,6 @@
 ![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
 
 
-
   <a href="https://github.com/VishalCodez/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=VishalCodez">
 </a>
