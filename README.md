@@ -58,8 +58,8 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   
 
-<h3 align='center'> CODE STREAKERS DISCORD SERVER </h3>
-<div align="center"> <a href="https://discord.gg/czHQgQgMHY"><img src="https://img.shields.io/discord/924403432054456351?label=discord&logo=Discord&style=for-the-badge" alt="Discord server" /></a><div align="center">
+<h3 align='center'> JOIN YOUR DISCORD </h3>
+<div align="center"> <a href="https://discord.gg/3QY683jpDA"><img src="https://img.shields.io/discord/924403432054456351?label=discord&logo=Discord&style=for-the-badge" alt="Discord server" /></a><div align="center">
 
 -------------------
   
